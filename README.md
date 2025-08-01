@@ -37,6 +37,6 @@ stdlib.h: Provides random() functionality to make movement decisions less predic
 
 
 
-Turns left or right if an obstacle is ahead.
+https://github.com/user-attachments/assets/c5f1bff2-a6bd-4afa-a0fb-22cad111abc3
 
-Stops if no clear path is found.
+
